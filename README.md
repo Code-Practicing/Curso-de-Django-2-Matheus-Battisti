@@ -41,7 +41,7 @@ Vídeos do curso estão disponíveis no [canal do YouTube do Matheus](https://yo
 
 ### Para verificar se o Django está rodando, basta acessar o "localhost:8000" no navegador
 
-![Tela-Instalaçao-Sucedida](https://github.com/divertimentos/typescript-learning/blob/main/media/ts-banner.jpeg)
+![Tela-Instalaçao-Sucedida](media/Tela-Instalaçao-Sucedida.jpeg)
 
 
 ### Aula 02 - Instalando o Django no Linux
