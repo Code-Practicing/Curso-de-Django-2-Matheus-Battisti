@@ -2,15 +2,7 @@
 
 Vídeos do curso estão disponíveis no [canal do YouTube do Matheus](https://youtube.com/playlist?list=PLnDvRpP8BnewqnMzRnBT5LeTpld5bMvsj&si=5ayrEysD8L15KEF1)
 
-
-
-## Anotações importantes
-
-- Anotações da aula 20, sobre funções (Parte 1) em Python: [notas.md](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_20/notas.md)
-
-- Anotações da aula 21, sobre funções (Parte 2) em Python: [notas.md](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_21/notas.md)
-
-## Lista de exercícios feitos
+----
 
 ### Aula 01 - [Instalando o Django no Windows]()
 - Na aula é abordado a instalação do Django e a criação do primeiro ambiente virtual
